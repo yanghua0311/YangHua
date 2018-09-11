@@ -40,7 +40,7 @@
 - 后端框架 : Spring、SpringMVC、Mybatis、SpringBoot、SpringCloud
 - 数  据  库 : Mysql、PostgreSQL、Oracle
 - 高效工具: Git、IDEA、Xmind、AxureRP
-- 其他技术: Redis、RabbitMQ、Linux、
+- 其他技术: Micro service、Redis、RabbitMQ、Linux
 
 ## 自我评价
 
