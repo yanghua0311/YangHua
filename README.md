@@ -38,7 +38,7 @@
 
 ## 技能清单
 
-- Java基础: Java Core、JVM、集合框架、多线程
+- Java基础: Java Core、JVM、集合框架、多线程技术
 - 后端框架: Spring、SpringMVC、Mybatis、SpringBoot、SpringCloud
 - 数据库: Mysql、PostgreSQL、Oracle
 - 高效工具: Git、IDEA、Xmind、AxureRP
