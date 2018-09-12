@@ -8,7 +8,7 @@
 ## 个人信息
 
 - 杨华/男/1995
-- 统招本科/合肥学院(Hefei University)**软件工程**
+- 统招本科/合肥学院/**软件工程**
 - 工作年限：1年
 - Github: https://github.com/yanghua0311
 - 期望职位：Java开发工程师
@@ -38,9 +38,9 @@
 
 ## 技能清单
 
-- Java基础 : Java Core、JVM、集合框架、多线程
-- 后端框架 : Spring、SpringMVC、Mybatis、SpringBoot、SpringCloud
-- 数  据  库 : Mysql、PostgreSQL、Oracle
+- Java基础: Java Core、JVM、集合框架、多线程
+- 后端框架: Spring、SpringMVC、Mybatis、SpringBoot、SpringCloud
+- 数据库: Mysql、PostgreSQL、Oracle
 - 高效工具: Git、IDEA、Xmind、AxureRP
 - 其他技术: Micro service、Redis、RabbitMQ、Linux
 
